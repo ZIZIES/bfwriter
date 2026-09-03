@@ -1,2 +1,2 @@
-# fuckmybrain
+#bfwriter
 brainfuck print generator
